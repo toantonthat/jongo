@@ -12,12 +12,4 @@
 **Wood solid**, As fast as Mongo Java driver. Open source, fully tested & made of rock solid libraries.
 
 
-```xml
-<dependency>
-    <groupId>org.jongo</groupId>
-    <artifactId>jongo</artifactId>
-    <version>[1.5.0,)</version>
-</dependency>
-```
-
 Documentation available at <a href="http://www.jongo.org/">jongo.org</a>

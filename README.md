@@ -2,9 +2,6 @@
 
 ### Jongo, Query in Java as in Mongo shell
 
-![ci](https://github.com/bguerout/jongo/actions/workflows/test.yml/badge.svg?branch=releases/1.5.x)
-[![codecov](https://codecov.io/gh/bguerout/jongo/branch/master/graph/badge.svg?token=x5SRoEqidT)](https://codecov.io/gh/bguerout/jongo)
-
 **Faithful spirit**, Mongo query language isn't available in Java, Jongo fixes that. Copy/paste your queries to string.
 
 **Object oriented**, Save & find objects into & from collections. Use embedded Jackson marshalling or your own.
